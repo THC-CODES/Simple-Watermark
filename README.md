@@ -1,2 +1,2 @@
 # Simple-Watermark
-Simple Watermark for your `Server Name`
+Simple Watermark Script
