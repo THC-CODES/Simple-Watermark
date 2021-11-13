@@ -7,6 +7,5 @@ Citizen.CreateThread(function()
         SetTextEntry("STRING")
         AddTextComponentString("Your Server Name Here") -- Main Text string
         DrawText( 0.16, 0.97)       
-        DrawRect(150, 100, 3.2, 0.075, 24, 36, 46, 245)
     end
 end)
